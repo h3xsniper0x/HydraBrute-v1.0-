@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-HydraBrute v2.1 - High-Throughput Asynchronous Network Authentication Testing Engine
+HydraBrute v1.0 - High-Throughput Asynchronous Network Authentication Testing Engine
 Pure Python Implementation (Standard Library Only - Zero 3rd-Party Dependencies)
 
 Features:
